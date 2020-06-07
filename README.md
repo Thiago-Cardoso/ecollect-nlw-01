@@ -29,7 +29,7 @@
 
 ## Web
 
-![](https://github.com/tiagoleal/ecoleta_nlw01/blob/master/web/src/assets/ecoleta-web.gif)
+![](ttps://github.com/Thiago-Cardoso/ecollect-nlw-01/blob/master/web/src/assets/ecoleta-web.gif)
 
 ## Mobile
 ![](https://github.com/Thiago-Cardoso/ecollect-nlw-01/blob/master/web/src/assets/ecoleta-mobile.gif)
